@@ -240,13 +240,21 @@ def exportar_csv(nome_arquivo, matriz):
 - [Google Download](https://pypi.org/project/gdown/)
 - [Rich Textualize](https://github.com/Textualize/rich)
 
-### Contribuição
+### Contribuições
 
-- Wagner Oliveira
+- Divanilza Ferreira Flexa
+- Emerson da Silva Maciel
+- Isabele Benevinuto Sabóia
+- Victor Lamark Costa Brasil
+- Wagner da Costa Oliveira
 
-### Autor
+### Autores
 
-- Wagner Oliveira
+- Divanilza Ferreira Flexa
+- Emerson da Silva Maciel
+- Isabele Benevinuto Sabóia
+- Victor Lamark Costa Brasil
+- Wagner da Costa Oliveira
 
 ### Licença
 
